@@ -22,10 +22,10 @@ The attached PDF includes four wireframes and shows the relationship between eac
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
-https://trello.com/b/es9wJSju
+[Trello board] (https://trello.com/b/es9wJSju)
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
 
-https://github.com/STL-WomenPlus-Mar22-LiftOff/group-krystal
+[Project Github link] (https://github.com/STL-WomenPlus-Mar22-LiftOff/group-krystal)
